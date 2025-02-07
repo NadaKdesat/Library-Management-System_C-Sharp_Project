@@ -1,0 +1,2 @@
+1|Lumina|Library|a|~/adnan/Images/Books/Lumina-removebg-preview.png|a|Unavailable
+4|Music Theory|Art|Bachelors|~/adnan/Images/Books/muisc.jpg|Music Theory in Arts|Available
